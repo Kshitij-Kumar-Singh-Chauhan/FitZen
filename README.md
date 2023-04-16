@@ -2,6 +2,20 @@
   <img width="200" src="icons\logo_name.png" alt="Material Bread logo">
 </p>
 
+
+<font size="5">[Vision document](https://drive.google.com/file/d/1eT6Hob8W6EDG2gqKA2YjUam8cvGCyKQM/view?usp=sharing )</font>
+<br />
+<font size="5">[Demo video](https://youtu.be/1OkxTzh7ij8 )</font>
+<br />
+<font size="5">[Try FitZen Now!](https://34.131.86.62/)</font>
+<br />
+
+# **USER GUIDE**
+* When you open above link, you might land up on a page saying that connection is not private. In that case click on Advanced options and than on proceed anyway<br />
+<br />
+* Kindly be patient when starting workout-sessions as it may take 2-3 seconds to load dependencies<br />
+<br />
+
 # **Tech stack used**
 
 ![Mediapipe](./icons/Mediapipe.png)
@@ -67,16 +81,26 @@ After that we will calculate angle heuristics by following the steps as follows:
 ![](/icons/Conceptual-Diagram.png)
 <br />
 
+# **Pre-Requisites**
+1) npm  >= 8.1.2
+2) node >= v16.13.2
+
 # **Usage Instructions**
 
-1) First make sure you have installed Node.js and NPM and can use them from the terminal
-2) Navigate to the folder you cloned the project by using the command line
+1) Clone project repository
+
+            git clone https://github.com/Kshitij-Kumar-Singh-Chauhan/FitZen
+2) Navigate to FitZen directory
+
+            cd FitZen
 3) Run
 
             npm i
 4) Run
 
-            npm start            
+            npm start
 
-# **Demo Video Link**
-# **Deployment Link**
+
+# _**Stay Fit. Stay Zen. 😉**_
+
+
