@@ -26,20 +26,13 @@
 
 
 # **Vision**
-* Welcome to FitZen where our goal is to promote healthy living through the practice of yoga and fitness. Our project utilizes cutting-edge technology to create pipelines that can accurately determine if someone is performing their yoga poses and gym exercises correctly.<br />
-<br />
-* Our vision for this project is to help people improve their health and wellness by providing an accurate and reliable tool to help them stay on track with their yoga and fitness goals. We believe that with the help of our pipelines, people will be able to achieve a deeper understanding of their bodies and their practice, leading to better physical and mental health.<br />
-<br />
-* Our project is based on the latest research in the field of yoga and fitness, and our pipelines use state-of-the-art algorithms to analyze video footage of yoga poses and provide real-time feedback on how to improve your form.<br />
-<br />
-* In our project you will be guided with audio command while doing gym exercises that how many reps have been done correctly by you and in yoga section you can select the timer till which you want to perform so it will give audio output to relax after you complete the selected time by doing correct posture.<br />
-<br />
-* To get started with our project, simply go to web application and then you can select the type of yoga pose you want to work on and begin your practice. As you perform the pose, our pipelines will analyze your movements and provide feedback on how to improve your form.<br />
-<br />
-* Our pipelines are designed to be flexible and adaptable to different skill levels, so whether you're a beginner or an experienced practitioner, you'll be able to get the most out of our system. You can also customize your practice to fit your needs and goals, whether you're looking to improve your flexibility, strength, or overall health and wellness.<br />
-<br />
-* We believe that our project has the potential to revolutionize the way people approach yoga and fitness. By providing an accurate and reliable tool to help people stay on track with their goals, we hope to inspire a new generation of healthy, happy, and active individuals.<br />
-<br />
+1) Welcome to FitZen where our goal is to promote healthy living through the practice of yoga and fitness. Our project utilizes cutting-edge technology to create pipelines that can accurately determine if someone is performing their yoga poses and gym exercises correctly.
+2) Our vision for this project is to help people improve their health and wellness by providing an accurate and reliable tool to help them stay on track with their yoga and fitness goals. We believe that with the help of our pipelines, people will be able to achieve a deeper understanding of their bodies and their practice, leading to better physical and mental health.
+3) Our project is based on the latest research in the field of yoga and fitness, and our pipelines use state-of-the-art algorithms to analyze video footage of yoga poses and provide real-time feedback on how to improve your form.
+4) In our project you will be guided with audio command while doing gym exercises that how many reps have been done correctly by you and in yoga section you can select the timer till which you want to perform so it will give audio output to relax after you complete the selected time by doing correct posture.
+5) To get started with our project, simply go to web application and then you can select the type of yoga pose you want to work on and begin your practice. As you perform the pose, our pipelines will analyze your movements and provide feedback on how to improve your form.
+6) Our pipelines are designed to be flexible and adaptable to different skill levels, so whether you're a beginner or an experienced practitioner, you'll be able to get the most out of our system. You can also customize your practice to fit your needs and goals, whether you're looking to improve your flexibility, strength, or overall health and wellness.
+7) We believe that our project has the potential to revolutionize the way people approach yoga and fitness. By providing an accurate and reliable tool to help people stay on track with their goals, we hope to inspire a new generation of healthy, happy, and active individuals.
 
 # **Methodology**
 
