@@ -11,10 +11,8 @@
 <br />
 
 # **USER GUIDE**
-* When you open above link, you might land up on a page saying that connection is not private. In that case click on Advanced options and than on proceed anyway<br />
-<br />
-* Kindly be patient when starting workout-sessions as it may take 2-3 seconds to load dependencies<br />
-<br />
+1) When you open above link, you might land up on a page saying that connection is not private. In that case click on Advanced options and than on proceed anyway
+2) Kindly be patient when starting workout-sessions as it may take 2-3 seconds to load dependencies
 
 # **Tech stack used**
 
